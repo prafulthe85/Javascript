@@ -24,8 +24,8 @@ const magicColorChanger = (element , color)=>{
     })
 }
 
-magicColorChanger(pink,getBGColor(pink));
 magicColorChanger(red,getBGColor(red));
+magicColorChanger(pink,getBGColor(pink));
 magicColorChanger(orange,getBGColor(orange));
 magicColorChanger(violet,getBGColor(violet));
 magicColorChanger(cyan,getBGColor(cyan));
